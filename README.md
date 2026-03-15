@@ -1,4 +1,3 @@
-Modus Operandi theme has been added with the Modus-themed palette and is available in this package.
-Use it for a clean, legible light editor feel with a dedicated screenshot preview below.
+This package includes the Doric Coral and Modus Operandi themes; install it by placing this folder in `~/.vscode/extensions/`.
 
 ![Modus Operandi](./modus-operandi.png)
