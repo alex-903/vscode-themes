@@ -1,0 +1,27 @@
+{
+  "name": "doric-coral-theme",
+  "displayName": "Doric Coral Theme",
+  "description": "A VS Code theme pack with Doric Coral and Modus Operandi light themes.",
+  "version": "0.0.1",
+  "publisher": "alex",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Doric Coral",
+        "uiTheme": "vs",
+        "path": "./themes/doric-coral-color-theme.json"
+      },
+      {
+        "label": "Modus Operandi",
+        "uiTheme": "vs",
+        "path": "./themes/modus-operandi-color-theme.json"
+      }
+    ]
+  }
+}
